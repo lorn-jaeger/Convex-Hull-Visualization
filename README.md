@@ -1,2 +1,3 @@
 Visualization of convex hull algorithms
-[Jarvis March](jarvis-march.gif)
+
+![Jarvis March](jarvis-march.gif)
